@@ -82,7 +82,7 @@ p {
   max-height: 200px;
 }
 
-/* main content box formatting */
+/* services content box formatting */
 
 .services {
   width: 75%;
@@ -105,9 +105,9 @@ p {
   font-size: 36px;
 }
 
-/* benefits side block  */
+/* benefits content formatting  */
 
-.benefits-block {
+.benefits {
   margin-right: 20px;
   padding: 20px;
   clear: both;
@@ -134,14 +134,12 @@ p {
   max-width: 150px;
 }
 
+/* footer */
+
 .footer {
   padding: 30px;
   clear: both;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
   text-align: center;
-}
-
-.footer h2 {
-  font-size: 20px;
 }
