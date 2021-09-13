@@ -67,6 +67,12 @@ p {
   background-size: cover;
   background-position: center;
 }
+.hero-caption {
+  position: relative;
+  top: 48em;
+  left: 75em;
+  color: white;
+}
 
 /* content image positioning */
 
@@ -107,6 +113,11 @@ p {
   font-size: 36px;
 }
 
+.services-img {
+  display: flex;
+  flex-flow: column;
+}
+
 /* benefits content formatting  */
 
 .benefits {
@@ -143,9 +154,4 @@ p {
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
   text-align: center;
-}
-
-.services-img {
-  display: flex;
-  flex-flow: column;
 }
