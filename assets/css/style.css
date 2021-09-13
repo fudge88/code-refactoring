@@ -74,12 +74,14 @@ p {
   float: left;
   margin-right: 25px;
   max-height: 200px;
+  text-align: left;
 }
 
 .float-right {
   float: right;
   margin-left: 25px;
   max-height: 200px;
+  text-align: right;
 }
 
 /* services content box formatting */
@@ -146,8 +148,4 @@ p {
 .services-img {
   display: flex;
   flex-flow: column;
-}
-
-figcaption {
-  text-align: center;
 }
