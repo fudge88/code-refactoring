@@ -142,3 +142,24 @@ p {
     "Lucida Sans", Arial, sans-serif;
   text-align: center;
 }
+
+figure {
+  border: thin #c0c0c0 solid;
+  /* float: right; */
+  /* display: flex; */
+  /* flex-flow: column; */
+  /* padding: 5px; */
+  max-width: 220px;
+  margin: 0;
+}
+img {
+  max-width: 220px;
+  /* max-height: 150px; */
+}
+figcaption {
+  /* background-color: #222;
+  color: #fff;
+  font: italic smaller sans-serif;
+  padding: 3px;
+  text-align: center; */
+}
