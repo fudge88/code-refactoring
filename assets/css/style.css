@@ -67,6 +67,9 @@ p {
   background-size: cover;
   background-position: center;
 }
+
+/* hero image caption */
+
 .hero-caption {
   position: relative;
   top: 48em;
@@ -112,6 +115,8 @@ p {
   margin-bottom: 20px;
   font-size: 36px;
 }
+
+/* services Images/captions */
 
 .services-img {
   display: flex;
