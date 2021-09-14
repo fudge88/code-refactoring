@@ -2,7 +2,7 @@
 
 Actively using semantic HTML, and reducing overall code to increase efficiency of the rendered website. This activity also improves the media accessibility user requirements.
 
-You can view the deployed website **(not yet deployed)** by [clicking here!](https://www.example.com)
+You can view the deployed website by [clicking here!](https://fudge88.github.io/code-refactoring/)
 
 ![Preview](assets/video/preview.gif)
 
