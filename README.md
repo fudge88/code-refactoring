@@ -4,7 +4,7 @@ Actively using semantic HTML, and reducing overall code to increase efficiency o
 
 You can view the deployed website by [clicking here!](https://fudge88.github.io/code-refactoring/)
 
-![Preview](assets/video/preview.gif)
+![Preview](assets/video/horiseon.gif)
 
 ## Summary
 
