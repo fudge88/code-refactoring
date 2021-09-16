@@ -10,7 +10,7 @@ body {
 
 /* header/navbar */
 
-.header {
+header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
@@ -20,12 +20,12 @@ body {
 
 /* page logo */
 
-.header h1 {
+header h1 {
   display: inline-block;
   font-size: 48px;
 }
 
-.header h1 .seo {
+header h1 .seo {
   color: #d9dcd6;
 }
 
@@ -39,11 +39,11 @@ body {
   font-size: 20px;
 }
 
-.header nav ul {
+header nav ul {
   list-style-type: none;
 }
 
-.header nav ul li {
+header nav ul li {
   display: inline-block;
   margin-left: 25px;
 }
@@ -68,17 +68,6 @@ p {
   background-position: center;
 }
 
-/* hero image caption */
-
-.hero-caption {
-  position: relative;
-  top: 48em;
-  /* left: 75em; */
-  float: right;
-  margin-right: 25px;
-  color: white;
-}
-
 /* content image positioning */
 
 .float-left {
@@ -101,7 +90,6 @@ p {
   width: 75%;
   display: inline-block;
   margin-left: 20px;
-  max-height: 200px;
 }
 
 .services-content {
